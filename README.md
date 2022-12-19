@@ -1,4 +1,4 @@
-# Alex Hoggett
+<h1 align="center"> Alex Shabib Hoggett</h1>
 
 [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Skills](#skills) | [LinkedIn](https://www.linkedin.com/in/alex-shabib-hoggett-7597041b7/)
 
