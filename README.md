@@ -1,7 +1,9 @@
 <h1 align="center"> Alex Shabib Hoggett</h1>
 
-[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Skills](#skills) | [LinkedIn](https://www.linkedin.com/in/alex-shabib-hoggett-7597041b7/)
-
+<h3 align="center">
+<a href="#projects">Projects</a> | <a href="#experience">Experience</a> | <a href="#education">Education</a> | <a href="#skills">Skills</a> | <a href="https://www.linkedin.com/in/alex-shabib-hoggett-7597041b7/">LinkedIn</a>
+</h3>
+  
 A Graduate Full-Stack Developer working with Javascript and Ruby. Adept at time management, collaboration, and brings a natural curiosity and energy to their work in web-development, across the stack.
 
 ## Projects
