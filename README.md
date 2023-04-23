@@ -4,7 +4,7 @@
 <a href="#projects">Projects</a> | <a href="#experience">Experience</a> | <a href="#education">Education</a> | <a href="#skills">Skills</a> | <a href="https://www.linkedin.com/in/alex-shabib-hoggett-7597041b7/">LinkedIn</a>
 </h3>
   
-A Graduate Full-Stack Developer working with Javascript and Ruby. Driven by coding best-practices, collaboration and self-growth, i bring a natural curiosity and energy to my work in web-development, across the stack.
+I'm a recent graduate of Makers Academy and a passionate and empathetic full-stack software engineer working with Javascript, Ruby and Python. Driven by industry best-practices, collaboration and self-growth, I bring a natural curiosity and energy to my work in web-development, across the stack.With a degree in Creative Computing from Goldsmiths, University of London, I have a solid foundation in both computer science and creative problem-solving. In addition, my extensive experience leading teams in high-end catering has honed my communication, collaboration, and project management skills. My technical and soft skills, combined with my endless appetite for learning and growth, make me an exceptional candidate for any junior position.
 
 ## Projects
 
@@ -15,45 +15,56 @@ A Graduate Full-Stack Developer working with Javascript and Ruby. Driven by codi
 | [Instant Messaging](https://github.com/alexHoggett/chat-app)         | An instant messaging application, built to demonstrate and soldify my skills in full-stack development, with Node and React                                                          | React.js, Node.js, SASS, Socket.io, Express, Jest, React Router v6                     |
 | [Dietary Logger](https://github.com/alexHoggett/diet)             | Users can create an account, and log the nutritional content of their foods in a day. I used the nutritionix api and it's database of over 200,000 foods                             | Javascript, SASS, Node.js, Express, Passport, MySQL, JQuery, HTML, CSS, EJS            |
 | [SouthLondonDoula](https://robynlnalty.co.uk/) | A custom site for a personal an independant business, designed and coded entirely from scratch by me | HTML5, CSS3, JS, Wordpress, PHP, SASS |
-| [Chordspotter](https://github.com/alexHoggett/ChordSpot)       | An openFrameworks program that can identify guitar chords                                                                                                                            | C++, openFrameworks, Maximilian                                                        |
+| [Chordspotter](https://github.com/alexHoggett/ChordSpot)       | An openFrameworks program that can identify guitar chords                                                                                                                            | C++, openFrameworks                                                        |
 
 ## Experience
 
-#### Teaching Assistant - Goldsmiths, University of London
+**Goldsmiths, University of London (2021- 2022)** </br>
+**Teaching Assistant, Department of Computer Science**
 
 - Using field knowledge and sharp communication skills, assisted in teaching both first & second years in various Computer Science modules, including ‘Dynamic Web Applications’ & ‘Problem Solving for Computer Science’.
-- Developed an ability to explain complex concepts accessibly.
+- Able to explain complex concepts accessibly and actively saw students’ learning develop.
 - Often tasked with debugging students' code methodically and meticulously.
+- Actively participated in providing pastoral care and support to students.
+- Assisted in learning plans, adjusting learning for different capabilities.
+
+**Culinary Experience, various Restaurants (2015 - 2022)** </br>
+**Sous Chef - Maître d'**
+
+- Strong work ethic meant that I could adapt to last minute changes in the kitchen, ensuring a consistently smooth service.
+- Oversaw the training of new members of the team and saw their professional growth.
+- Held positions of leadership, communicating challenges and directing solutions.
+- Excellent client-facing skills created regular customers, increasing business revenue.
 
 ## Education
 
-#### Makers Academy (November '22 - March '23)
-
+**Makers Academy (November '22 - March '23)** </br>
 **Software Development Bootcamp**
 
-Highly selective and robust coding bootcamp covering all core concepts of software development. Covered best practive design philosophies for object oriented programming (SOLID), web applications (MVC) and databases.
+Covered best practive design philosophies for object oriented programming (SOLID), web architecture (MVC) and database design. Built several full-stack applications as part of an Agile software team and consistently delivered well-tested projects on time.
 
 A particular focus on:
 - Pair programming
 - TDD
 - Agile methodologies
 
-#### Goldsmiths, University of London (September '17 - August '20)
 
-**BSc Creative Computing, First class Honours**
+**Goldsmiths, University of London (September '17 - August '20)** </br>
+**BSc Creative Computing, First Class Honours**
 
-Practice based course using methods from software development to create creative projects.
+Applied advanced programming concepts to both peer and self-led creative projects. Robust course covering many aspects of CS and how to apply them in real world scenarios.
 
 Modules include:
 
 - Principles and Applications of Programming in C++
 - Machine Learning
 - Computer Security
-- Audio-Visual Processing
-- Sound & Signal
+- Audio-Visual Computing
+- Digital Signal Processing
+- Generative Drawing
+- Graphics
 
-#### East Norfolk Sixth Form College
-
+**East Norfolk Sixth Form College** </br>
 **A-Levels**
 
 - Maths: A
@@ -64,20 +75,30 @@ Modules include:
 
 I have also completed several courses to further my own learning.
 
-- The Complete Javascript Course
-- Agile Crash Course
-- Advanced CSS and Sass
+- The Complete Javascript Course (2021)
+- Agile Crash Course (2022)
+- Advanced CSS and Sass (2022)
 
 ## Skills
 
 #### Communication
 
-A proven track record of postitions held in education, hopsitality and community work have honed my communication and interpersonal skills, able to approach situations with tact, empathy or honesty where needed. Not only does this make me a joy to work with, it also means i have great client-facing skills.
+Throughout my experience in senior positions within a kitchen team, I developed crucial skills in delegation, overseeing learning, and conflict resolution. When I joined Makers, I was able to apply these skills to our group projects, taking on the role of leading end-of-sprint retrospectives and managing our team's Trello board. By maintaining the board and ensuring all team members were aware of project milestones, I facilitated clear communication and timely resolution of any roadblocks. Thanks to these efforts, our team was able to consistently meet project deadlines with high-quality results. Not only does this make me a joy to work with, it also means i have great client-facing skills.
 
-#### Attention to detail
+#### Problem Solving
 
-I take great pride in producing code that is elegant, efficient and reliable, consistently researching coding best practices. 
+With a natural aptitude for mathematics and logic, I excel at managing complex programming problems. My background in mathematics and computing has provided me with the skills to confidently approach technical tasks. For example, while developing StepFreeGigs, I implemented a custom API to manage multiple external API calls to 3 destinations. One challenge that arose was filtering the necessary data from the APIs while optimising performance. To solve this, I utilised caching with Axios, which limited the number of outgoing calls and allowed us to stay within our development limits. As a result, the project was completed efficiently and effectively.
 
 #### Adaptability
 
-I am highly motivated by challenges and look forward to these opportunites as they have the potential for professional growth. I can pick up new technologies fast through independant learning, and i have decveloped an attitude towards technological solutions that is language agnostic. I belive my knowledge of principles and concepts are invaluable and i have confidence applying them to any programming language that best solves a particular problem, regardless of my familiarity with it.
+I possess strong problem-solving skills and as a self-starter, I am able direct my own learning on topics that are less familiar to me. My ability to independently overcome challenges was crucial to my success during my final project completed during the Makers Academy bootcamp, where over the course of 2 weeks we developed a fully test-driven and functioning React Native mobile app, a technology that no one on the team had ever used before. I would often teach new concepts of the technology to my peers as I was learning it, solidifying my own understanding.
+
+#### Technical
+**Languages**: Javascript • TypeScript • Python • Ruby </br>
+**Frameworks**: React • React Native • Express • Jest • Cypress • Flask • Sinatra • OpenFrameworks • p5.js • pandas </br>
+**Databases**: MySQL • PostgreSQL • MongoDB </br>
+**DevOps**: Git • Test-Driven Development • Pair Programming • Linux • Figma </br>
+
+## Hobbies
+I'm a musician of the stringed variety. I probably have too many guitars, currently learning the Oud, the oldest stringed instrument in the world. </br>
+As a nature lover, I make sure to carve out time to go camping and hiking outside of the city.
