@@ -4,7 +4,7 @@
 <a href="#projects">Projects</a> | <a href="#experience">Experience</a> | <a href="#education">Education</a> | <a href="#skills">Skills</a> | <a href="https://www.linkedin.com/in/alex-shabib-hoggett-7597041b7/">LinkedIn</a>
 </h3>
   
-I'm a recent graduate of Makers Academy and a passionate and empathetic full-stack software engineer working with Javascript, Ruby and Python. Driven by industry best-practices, collaboration and self-growth, I bring a natural curiosity and energy to my work in web-development, across the stack.With a degree in Creative Computing from Goldsmiths, University of London, I have a solid foundation in both computer science and creative problem-solving. In addition, my extensive experience leading teams in high-end catering has honed my communication, collaboration, and project management skills. My technical and soft skills, combined with my endless appetite for learning and growth, make me an exceptional candidate for any junior position.
+I'm a recent graduate of Makers Academy and a passionate and empathetic full-stack software engineer working with Javascript, Ruby and Python. Driven by industry best-practices, collaboration and self-growth, I bring a natural curiosity and energy to my work in web-development, across the stack. With a degree in Creative Computing from Goldsmiths, University of London, I have a solid foundation in both computer science and creative problem-solving. In addition, my extensive experience leading teams in high-end catering has honed my communication, collaboration, and project management skills. My technical and soft skills, combined with my endless appetite for learning and growth, make me an exceptional candidate for any junior position.
 
 ## Projects
 
@@ -52,7 +52,7 @@ A particular focus on:
 **Goldsmiths, University of London (September '17 - August '20)** </br>
 **BSc Creative Computing, First Class Honours**
 
-Applied advanced programming concepts to both peer and self-led creative projects. Robust course covering many aspects of CS and how to apply them in real world scenarios.
+Applied advanced programming concepts to both peer and self-led creative projects. Robust course covering many aspects of CS and how to apply them in real world scenarios. For my final project, i designed and built an audio effects pedal running on a Raspberry-Pi, that performed audio-analysis to create live visualisation,s to be output on an HDMI channel. My report can be found [here](https://documentcloud.wondershare.com/share/review/zwp63GvBBikzABv2bG5wNj2vGKNLl4YO2f1kwAhqQmWeoTZmz_w_TEAtEbEZcAzMJgsdY9azokXMBfzYLz8u_g?lang=en-us).
 
 Modules include:
 
