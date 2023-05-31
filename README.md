@@ -101,5 +101,5 @@ I possess strong problem-solving skills and as a self-starter, I am able direct 
 **DevOps**: Git • Test-Driven Development • Pair Programming • Linux • Figma </br>
 
 ## Hobbies
-I'm a musician of the stringed variety. I probably have too many guitars, currently learning the Oud, the oldest stringed instrument in the world. </br>
-As a nature lover, I make sure to carve out time to go camping and hiking outside of the city.
+I'm a musician that works with stringed instruments. I probably have too many guitars, currently learning the Oud, the oldest stringed instrument in the world. </br>
+As a nature lover, I like to carve out time to go camping and hiking outside of the city.
