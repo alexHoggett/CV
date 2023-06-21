@@ -42,7 +42,7 @@ I'm a recent graduate of Makers Academy and a passionate and empathetic full-sta
 **Makers Academy (November '22 - March '23)** </br>
 **Software Development Bootcamp**
 
-Covered best practive design philosophies for object oriented programming (SOLID), web architecture (MVC) and database design. Built several full-stack applications as part of an Agile software team and consistently delivered well-tested projects on time.
+Covered best practice design philosophies for object oriented programming (SOLID), web architecture (MVC) and database design. Built several full-stack applications as part of an Agile software team and consistently delivered well-tested projects on time.
 
 A particular focus on:
 - Pair programming
