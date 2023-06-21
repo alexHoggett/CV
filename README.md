@@ -53,7 +53,7 @@ A particular focus on:
 **Goldsmiths, University of London (September '17 - August '20)** </br>
 **BSc Creative Computing, First Class Honours**
 
-Applied advanced programming concepts to both peer and self-led creative projects. Robust course covering many aspects of CS and how to apply them in real world scenarios. For my final project, i designed and built an audio effects pedal running on a Raspberry-Pi, that performed audio-analysis to create live visualisation,s to be output on an HDMI channel. My report can be found [here](https://documentcloud.wondershare.com/share/review/zwp63GvBBikzABv2bG5wNj2vGKNLl4YO2f1kwAhqQmWeoTZmz_w_TEAtEbEZcAzMJgsdY9azokXMBfzYLz8u_g?lang=en-us).
+Applied advanced programming concepts to both peer and self-led creative projects. Robust course covering many aspects of CS and how to apply them in real world scenarios. For my final project, i designed and built an audio effects pedal running on a Raspberry-Pi, that performed audio-analysis to create live visualisations to be output on an HDMI channel. My report can be found [here](https://documentcloud.wondershare.com/share/review/zwp63GvBBikzABv2bG5wNj2vGKNLl4YO2f1kwAhqQmWeoTZmz_w_TEAtEbEZcAzMJgsdY9azokXMBfzYLz8u_g?lang=en-us).
 
 Modules include:
 
