@@ -98,7 +98,8 @@ I possess strong problem-solving skills and as a self-starter, I am able direct 
 **Languages**: Javascript • TypeScript • Python • Ruby </br>
 **Frameworks**: React • React Native • Express • Jest • Cypress • Flask • Sinatra • OpenFrameworks • p5.js • pandas </br>
 **Databases**: MySQL • PostgreSQL • MongoDB </br>
-**DevOps**: Git • Test-Driven Development • Pair Programming • Linux • Figma </br>
+**DevOps**: Git • Test-Driven Development • Pair Programming • Linux </br>
+**Misc**: Figma
 
 ## Hobbies
 I'm a musician that works with stringed instruments. I probably have too many guitars, currently learning the Oud, the oldest stringed instrument in the world. </br>
